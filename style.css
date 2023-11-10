@@ -727,6 +727,9 @@ footer {
     #footer .section-title {
         margin-top: -15vh;
     }
+    #footer-top {
+        margin-top: 5vh;
+    }
 }
 
 @media (max-width:425px){
